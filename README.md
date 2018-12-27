@@ -1,7 +1,7 @@
 # summer-learning-2018
 Code for lectures and exercises of the Summer 2018 machine learning seminar given at Vanier College.
 
-Most of the core material was based off of existing Python code in books by Geron, Marsland, and Raschka. So here I am only including original code.
+Most of the core material was based off of existing Python code in books by Geron, Marsland, and Raschka. So here I am only including original code and code that draws from the Winter 2018 seminar.
 
 The full seminar had 8 units:
 1) Introduction to Python
